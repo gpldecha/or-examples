@@ -1,10 +1,12 @@
 # or-examples
 Operational Research examples 
 
-[Google's Optimisation API]https://developers.google.com/optimization/
+# Resources
 
-[TSP](https://developers.google.com/optimization/routing/tsp/tsp)
+* [Google's Optimisation API](https://developers.google.com/optimization/)
 
-[VR](https://developers.google.com/optimization/routing/tsp/vehicle_routing)
+* [TSP](https://developers.google.com/optimization/routing/tsp/tsp)
 
-[API for multiple starting points and vehicles](https://developers.google.com/optimization/reference/constraint_solver/routing/RoutingModel/)
+* [VR](https://developers.google.com/optimization/routing/tsp/vehicle_routing)
+
+* [API for multiple starting points and vehicles](https://developers.google.com/optimization/reference/constraint_solver/routing/RoutingModel/)
